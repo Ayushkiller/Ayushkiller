@@ -19,17 +19,10 @@ Repository: https://github.com/Ayushkiller/github-stats
 
 ---
 
-### 🚀 About Me
-
-<!-- Add your personal introduction here -->
-
-### 🛠️ Technologies & Tools
-
-<!-- Add your tech stack here -->
 
 ### 📫 How to reach me
 
-<!-- Add your contact information here -->
+Email :-Malikayush999@gmail.com
 
 ---
 
